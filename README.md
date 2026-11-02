@@ -1,6 +1,6 @@
 # AI-trainer-replaced
 This should replace your <b>AI-trainers <i>humans</i></b> with the <b>AI <i>multiagent system</i></b> <br> <br>
-<b>[Not Tested yet]</b> <br><br>
+<b>_ _ _ _ _ _ _ [Not Tested yet] _ _ _ _ _ _ _</b> <br><br>
 <i><b>What it do and why:</i></b><br>
 it detects the language, checks it's grammar for correction, <br>
 and based on it the ethical framework for correction,<br>
