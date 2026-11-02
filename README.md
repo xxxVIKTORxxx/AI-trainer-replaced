@@ -1,5 +1,5 @@
 # AI-trainer-replaced
-This should replace your AI-trainers humans with AI multiagent system <br> <br>
+This should replace your <b>AI-trainers <i>humans</i></b> with the <b>AI <i>multiagent system</i></b> <br> <br>
 <b>[Not Tested yet]</b> <br><br>
 <i><b>What it do and why:</i></b><br>
 it detects the language, checks it's grammar for correction, <br>
