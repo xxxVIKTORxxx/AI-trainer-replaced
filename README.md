@@ -6,5 +6,5 @@ it detects the language, checks it's grammar for correction, <br>
 and based on it the ethical framework for correction,<br>
 for a developers of local AI-LLMs been able to easily adaptate it to their local needs. <br>
 <i><b>Why?:</i></b><br>
-I'm tired to see such a vacations on a job sites.<br><br>
+<i>I'm tired to see such a vacations on a job sites.</i><br><br>
 <img width="727" height="688" alt="image" src="https://github.com/user-attachments/assets/453763df-d474-4207-8071-49deeafe2140" />
